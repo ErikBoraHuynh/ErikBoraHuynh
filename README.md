@@ -50,4 +50,5 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 ## Projects
 - CompTIA CertMaster Labs Repository
-- Vulnerability Trends & Weakness Analysis
+- [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
+
