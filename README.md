@@ -1,5 +1,8 @@
 # Hello, I'm Erik
-<a href="www.linkedin.com/in/erikborahuynh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/erikborahuynh" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 I am a Junior at Virginia Tech eagerly looking to build and grow my career in cybersecurity. I wish to make a positive and productive impact on the people and company I work with to the best of my ability. To do this, I confidently offer a strong work ethic, eagerness to expand my knowledge, and clear communication no matter the task that is put in front of me.
 
