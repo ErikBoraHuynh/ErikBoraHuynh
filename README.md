@@ -17,6 +17,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 | Automation and Scripting Use Cases              | CompTIA CertMaster Labs|
 | Performing Red Team Reconnaissance              | CompTIA CertMaster Labs|
 | Implementing Backups                            | CompTIA CertMaster Labs|
+| pandas, NumPy, matplotlib, and seaborn       | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 ## Tools
 
