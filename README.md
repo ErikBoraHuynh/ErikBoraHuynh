@@ -50,4 +50,5 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 ## Projects
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
+- [CyberVT Cyber Training Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 
