@@ -14,6 +14,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Pandas, NumPy, Matplotlib, and Seaborn       | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
+| File Integrity Monitoring Configuration      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Cyber-Training) |
 | CyberVT Cyber Training Modules               | [Capture The Flags](https://github.com/ErikBoraHuynh/Cyber-Training) |
 
 
@@ -52,5 +53,6 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 ## Projects
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
+- [Wazuh Homelab](https://github.com/ErikBoraHuynh/Cyber-Training)
 - [CyberVT Cyber Training Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 
