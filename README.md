@@ -23,6 +23,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2D2B6F?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
 ### SIEM
