@@ -28,7 +28,6 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3094FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
@@ -57,6 +56,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 ### Other
 <div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Office%20365-EB3C00?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
 </div>
 
