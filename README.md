@@ -13,9 +13,9 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ubuntu, Wazuh, File Integrity Monitoring     | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
-| Linux and Windows Command Lines              | [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training) |
-| Pandas, NumPy, Matplotlib, and Seaborn       | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
+| File Integrity Monitoring, Ubuntu, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
+| Linux and Windows Command Lines               | [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training) |
+| Pandas, NumPy, Matplotlib, and Seaborn        | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
 ## Tools
@@ -50,6 +50,9 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 <div>
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=Plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white" />
+
 </div>
 
 ### Other
