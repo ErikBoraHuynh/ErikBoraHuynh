@@ -13,25 +13,12 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Pandas, NumPy, Matplotlib, and Seaborn       | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 | Ubuntu, Wazuh, File Integrity Monitoring     | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
 | Linux and Windows Command Lines              | [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training) |
+| Pandas, NumPy, Matplotlib, and Seaborn       | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
 ## Tools
-
-### Programming
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-</div>
-
-### Libraries
-<div>
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
-</div>
 
 ### Network
 <div>
@@ -52,6 +39,19 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
+### Programming
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+</div>
+
+### Libraries
+<div>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+</div>
+
 ### Other
 <div>
     <img src="https://img.shields.io/badge/-Office%20365-EB3C00?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
@@ -64,7 +64,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 </div>
 
 ## Projects
-- [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
 - [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh)
 - [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training)
+- [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
 
