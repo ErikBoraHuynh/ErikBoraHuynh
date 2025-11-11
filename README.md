@@ -14,7 +14,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring, Ubuntu, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
-| Linux and Windows Command Lines               | [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training) |
+| Linux and Windows Command Lines               | [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
 | Pandas, NumPy, Matplotlib, and Seaborn        | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
@@ -68,7 +68,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 </div>
 
 ## Projects
-- [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh)
-- [CyberVT Cyber Training](https://github.com/ErikBoraHuynh/Cyber-Training)
+- [Homelabs](https://github.com/ErikBoraHuynh/Homelab)
+- [CyberVT Cyber Training Overview](https://github.com/ErikBoraHuynh/Cyber-Training)
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
 
