@@ -68,7 +68,7 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 </div>
 
 ## Projects
-- [Homelabs](https://github.com/ErikBoraHuynh/Homelab)
+- [Homelabs Repository](https://github.com/ErikBoraHuynh/Homelab)
 - [CyberVT Cyber Training All Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
 
