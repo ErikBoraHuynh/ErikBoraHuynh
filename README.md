@@ -44,6 +44,8 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-D97706?style=for-the-badge&logo=java&logoColor=white" />
+
 </div>
 
 ### Libraries
