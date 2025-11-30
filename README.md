@@ -15,8 +15,8 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring, Ubuntu, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
 | Linux and Windows Command Lines               | [CyberVT Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
-| Basic Cryptography                            | [CyberVT Cyber Training Cryptography Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Cryptography) |
 | Forensic Analysis                             | [CyberVT Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
+| Networking (Ongoing)                          | [CyberVT Cyber Training Networking Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Networking) |
 | Pandas, NumPy, Matplotlib, and Seaborn        | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
