@@ -33,6 +33,14 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
     <img src="https://img.shields.io/badge/-Wazuh-3094FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
+
 ### Programming
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
