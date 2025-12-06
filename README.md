@@ -13,10 +13,11 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| File Integrity Monitoring, Ubuntu, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
-| Linux and Windows Command Lines               | [CyberVT Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
-| Forensic Analysis                             | [CyberVT Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
-| Pandas, NumPy, Matplotlib, and Seaborn        | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
+| Active Directory Deployment & Configuration, PowerShell Scripting      | [Active Directory Homelab](https://github.com/ErikBoraHuynh/Homelabs/tree/main/Active%20Directory) |
+| SIEM Deployment & Configuration, File Integrity Monitoring, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
+| Linux and Windows Command Lines                                        | [CyberVT Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
+| Forensic Analysis                                                      | [CyberVT Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
+| Pandas, NumPy, Matplotlib, and Seaborn                                 | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
 ## Tools
