@@ -4,7 +4,7 @@
 </a>
 
 
-Hello! I’m a Junior at Virginia Tech pursuing a B.S. in Cybersecurity Management and Analytics. I'm driven by a strong desire to continuously learn and contribute to meaningful work, and Cybersecurity is a career that perfectly encapsulates these two desires I have! I ultimately wish to make a positive and productive impact on the people around me and the company I work with to the best of my ability. To do this, I confidently offer a strong work ethic, eagerness to expand my knowledge, and clear communication no matter the task that is put in front of me!
+Hello! I’m a Junior at Virginia Tech pursuing a B.S. in Cybersecurity Management and Analytics. I'm driven by a strong desire to continuously learn and contribute to meaningful work, and cybersecurity is a career that perfectly encapsulates these two desires I have! I ultimately wish to make a positive and productive impact on the people around me and the company I work with to the best of my ability. To do this, I confidently offer a strong work ethic, eagerness to expand my knowledge, and clear communication no matter the task that is put in front of me!
 
 ## Objective
 My journey in IT and cybersecurity since high school has led me to develop a passion for cybersecurity. I am now very eager to enter this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
