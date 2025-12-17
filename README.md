@@ -16,8 +16,8 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 | Metasploit, Nmap, Cyber Kill Chain Framework                           | [Metasploit Homelab](https://github.com/ErikBoraHuynh/Homelabs/tree/main/Metasploit) |
 | Active Directory Deployment & Configuration, PowerShell Scripting      | [Active Directory Homelab](https://github.com/ErikBoraHuynh/Homelabs/tree/main/Active%20Directory) |
 | SIEM Deployment & Configuration, File Integrity Monitoring, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
-| Linux Bash and Windows PowerShell Command Lines                        | [CyberVT Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
-| Forensic Analysis, PicoCTF                                             | [CyberVT Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
+| Linux Bash and Windows PowerShell Command Lines                        | [Cyber-Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
+| Forensic Analysis, PicoCTF                                             | [Cyber-Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
 | Python, Pandas, NumPy, Matplotlib, Seaborn                             | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
@@ -76,6 +76,6 @@ My journey in IT and cybersecurity since high school has led me to develop a pas
 ## Projects
 - [Homelabs Repository](https://github.com/ErikBoraHuynh/Homelab)
 - [CTFs Repository](https://github.com/ErikBoraHuynh/CTFs-Respository)
-- [CyberVT Cyber Training All Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
+- [Cyber-Training All Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
 
