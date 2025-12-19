@@ -18,7 +18,7 @@ To build a strong foundation in defensive security and develop the skills needed
 | SIEM Deployment & Configuration, File Integrity Monitoring, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
 | Linux Bash and Windows PowerShell Command Lines                        | [Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
 | Forensic Analysis, PicoCTF                                             | [Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
-| Python, Pandas, NumPy, Matplotlib, Seaborn                             | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
+| Python, pandas, NumPy, Matplotlib, Seaborn                             | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
 ## Tools
