@@ -76,6 +76,6 @@ To build a strong foundation in defensive security and develop the skills needed
 ## Projects
 - [Homelabs Repository](https://github.com/ErikBoraHuynh/Homelab)
 - [CTFs Repository](https://github.com/ErikBoraHuynh/CTFs-Respository)
-- [Cyber Training All Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 - [Vulnerability Trends & Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md)
+- [Cyber Training All Modules](https://github.com/ErikBoraHuynh/Cyber-Training)
 
