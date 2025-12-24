@@ -16,9 +16,9 @@ To build a strong foundation in defensive security and develop the skills needed
 | Metasploit, Nmap, Cyber Kill Chain Framework                           | [Metasploit Homelab](https://github.com/ErikBoraHuynh/Homelabs/tree/main/Metasploit) |
 | Active Directory Deployment & Configuration, PowerShell Scripting      | [Active Directory Homelab](https://github.com/ErikBoraHuynh/Homelabs/tree/main/Active%20Directory) |
 | SIEM Deployment & Configuration, File Integrity Monitoring, Wazuh      | [Wazuh Homelab](https://github.com/ErikBoraHuynh/Homelab/tree/main/Wazuh) |
+| Python, pandas, NumPy, Matplotlib, Seaborn                             | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 | Linux Bash and Windows PowerShell Command Lines                        | [Cyber Training Command Line Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Command%20Line) |
 | Forensic Analysis, PicoCTF                                             | [Cyber Training Forensics Module](https://github.com/ErikBoraHuynh/Cyber-Training/tree/main/Forensics) |
-| Python, pandas, NumPy, Matplotlib, Seaborn                             | [Vulnerability Trends and Weakness Analysis](https://github.com/ErikBoraHuynh/Vulnerability-Trends-Weakness-Analysis/blob/main/README.md) |
 
 
 ## Tools
