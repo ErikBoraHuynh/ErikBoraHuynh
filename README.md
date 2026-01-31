@@ -65,7 +65,7 @@ To build a strong foundation in defensive security and develop the skills needed
 
 ### Other
 <div>
-    <img src="https://img.shields.io/badge/-Office%20365-EB3C00?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Office-0A59B3?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
 </div>
 
 ## Certifications
