@@ -5,7 +5,6 @@
 
 
 I'm driven by a strong desire to continuously learn and contribute to meaningful work and cybersecurity is a career that perfectly encapsulates these two desires I have. 
-
 I ultimately wish to make a positive and productive impact on the people around me and the company I work with to the best of my ability. To do this, I confidently offer a strong work ethic, eagerness to expand my knowledge, and clear communication no matter the task that is put in front of me!
 
 ## Objective
